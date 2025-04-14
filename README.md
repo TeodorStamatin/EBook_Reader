@@ -125,9 +125,6 @@ Battery Type: Li-Po (Lithium Polymer)
 - **Button Alignment Issues**:  
   - The buttons **do not align perfectly** with their footprints, but they (hopefully) remain functional.  
 
-- **Test Pads Size**:  
-  - The **test pads are slightly larger** than ideal, which may affect probe contact but improves soldering accessibility.  
-
 - **Via Count and Stitching**:  
   - The design includes **79 vias**, which is a reasonable number for a project of this complexity.  
   - **Via stitching** was applied near the **ESP32-C6** to:  
